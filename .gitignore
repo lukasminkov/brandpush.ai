@@ -1,2 +1,9 @@
 node_modules/
 .next/
+.git/
+keygit
+**/keygit
+*.pem
+*.key
+id_rsa
+id_ed25519
